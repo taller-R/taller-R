@@ -1,16 +1,13 @@
-### Hi there 👋
+![counter](https://enoj5nxaomlx2al.m.pipedream.net)
+<!-- https://www.geeksforgeeks.org/how-to-add-a-readme-to-your-github-profile/ -->
 
-<!--
-**taller-R/taller-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola! :wave:
 
-Here are some ideas to get you started:
+Esta contiene los repositorios de un curso básico de R. Este no es un curso avanzado de R. Desde las primeras las clases, el curso está pensado para personas que nunca han tenido contacto con la programacion. De igual forma, aunque el curso está desarrollado completamente en español, no se usan acentos ni caracteres especiales dentro de los scripts de las clases; Esto último para evitar conflictos entre los diferentes sistemas operativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!--[Github stats](https://github-readme-stats.vercel.app/api?username=eduard-martinez)-->
+
+
+

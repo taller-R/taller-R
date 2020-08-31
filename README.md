@@ -6,7 +6,7 @@
 Esta cuenta contiene los repositorios de las clases de un curso básico de R. Este curso está diseñado para introducir a los usuarios en algunos métodos computacionales aplicados en la investigación económica. Si usted no ha tenido contacto con R, no hay lio, las primeras clases están pensadas para personas que nunca han tenido contacto con la programacion. 
 
 
-Para replicar las clases, deberia revisar el siguiente [repositorio](https://github.com/taller-R/readme)
+Para replicar las clases del curso, primero debe leer el README.md de este  [repositorio](https://github.com/taller-R/readme).
 
 
 

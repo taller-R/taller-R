@@ -3,7 +3,11 @@
 
 # Hola! :wave:
 
-Esta contiene los repositorios de un curso básico de R. Este no es un curso avanzado de R. Desde las primeras las clases, el curso está pensado para personas que nunca han tenido contacto con la programacion. De igual forma, aunque el curso está desarrollado completamente en español, no se usan acentos ni caracteres especiales dentro de los scripts de las clases; Esto último para evitar conflictos entre los diferentes sistemas operativos.
+Esta cuenta contiene los repositorios de las clases de un curso básico de R. Este curso está diseñado para introducir a los usuarios en algunos métodos computacionales aplicados en la investigación económica. Si usted no ha tenido contacto con R, no hay lio, las primeras clases están pensadas para personas que nunca han tenido contacto con la programacion. 
+
+
+Para replicar las clases, deberia revisar el siguiente [repositorio](https://github.com/taller-R/readme)
+
 
 
 

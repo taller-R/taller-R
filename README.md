@@ -1,10 +1,10 @@
-![counter](https://enoj5nxaomlx2al.m.pipedream.net) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/taller-R/readme/issues) ![](https://img.shields.io/github/followers/taller-R?style=social)
+![Powered-taller-R-orange](https://img.shields.io/badge/Powered_by-Taller_R-blue?logo=R)![counter](https://enoj5nxaomlx2al.m.pipedream.net) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/taller-R/readme/issues) ![](https://img.shields.io/github/followers/taller-R?style=social)
 
 <!-- https://www.geeksforgeeks.org/how-to-add-a-readme-to-your-github-profile/ -->
 
 # Hola! :wave:
 
-Esta cuenta contiene los repositorios de las clases de un curso de R de nivel básico-intermedio. El curso está diseñado para introducir a los usuarios en algunos métodos computacionales aplicados en la investigación económica. Las primeras 2 clases está pensado para personas que nunca han tenido contacto con la programación.
+Esta cuenta contiene los repositorios de las clases de un curso de R de nivel básico-intermedio. El curso está diseñado para introducir a los usuarios en algunos métodos computacionales aplicados en la investigación económica. Las primeras 2 clases estan pensadas para personas que nunca han tenido contacto con la programación.
 
 La organización y las instrucciones iniciales para replicar las clases del curso las encuentra en este [repositorio](https://github.com/taller-R/readme). **¡ES IMPORTANTE QUE REVISE ESTE REPOSITORIO!** 
 

@@ -10,7 +10,7 @@ Esta cuenta contiene los repositorios del curso Taller de R de nivel básico-int
 
 <img src="https://avatars2.githubusercontent.com/u/24576122?s=400&u=8092eac7857baab63d2e0c7243e473463b082b1a&v=4" align="right" width=100 height=100 alt="" />
 
-[Eduard Martinez](https://eduard-martinez.github.io), estudiante doctorado en Economía de la Universidad de los Andes.
+[Eduard Martinez](https://github.com/eduard-martinez), estudiante doctorado en Economía de la Universidad de los Andes. Puedes ver su página web [aquí](https://eduard-martinez.github.io).
 
 <br> </br> 
 

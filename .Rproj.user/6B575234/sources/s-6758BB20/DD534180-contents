@@ -59,11 +59,6 @@ Cada repositorio contiene almenos cuatro carpetas (scr, data, help, task), un ar
 
 * **Task:**  contiene un archivo task.html con algunas instrucciones para realizar ejercicios de los temas vistos en clase. La intención es que los estudiantes puedan afianzar los conocimientos de la clase empleando bases de datos de instituciones como [DANE](https://www.dane.gov.co). 
 
-<!--La organización y las instrucciones iniciales para replicar las clases del curso las encuentra en este [repositorio](https://github.com/taller-R/readme). **¡ES IMPORTANTE QUE REVISE ESTE REPOSITORIO!** 
-
-Después de ver la clase de introducción a R (**Clase 1**) puede ir a este [enlace](https://eduard-martinez.github.io/blog/github/clonar_github.html) y revisar 3 caminos para clonar/descargar un repositorio de GitHub usando R (el vídeo lo encuentra [aquí](https://www.dropbox.com/sh/1s8odr6rrc64acl/AAAhWXHkq8w7_iMl3cW00kjfa?dl=0)).
-
-[Github stats](https://github-readme-stats.vercel.app/api?username=eduard-martinez)-->
 
 
 

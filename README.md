@@ -49,7 +49,7 @@ Esta cuenta contiene los repositorios del curso Taller de R de nivel básico-int
 
 ## Acerca de los repositorios con las clases
 
-Cada repositorio contiene almenos cuatro carpetas (scr, data, help, task), un archivo README.md y un archivo intro-clase.html con las instrucciones iniciales de cada clase.
+Cada repositorio contiene almenos cuatro carpetas (scr, data, help, task), un archivo README.md y un archivo intro-to-class.html con las instrucciones iniciales de cada clase.
 
 * **scr:** contiene el script (editor de sintaxis) que vamos a usar en la clase.
 

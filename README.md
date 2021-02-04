@@ -19,7 +19,7 @@ Esta cuenta contiene los repositorios del curso Taller de R de nivel básico-int
 * ***Módulo 1:*** Introducción al entorno de trabajo de R
 
   + ***Clase_01:*** Introducción a R. [[repositorio]](https://github.com/taller-R/clase_1) - [[video aquí]](https://www.dropbox.com/sh/yqp48il9q45dnud/AAAJQGlkVZLFxUT9wAd8H445a?dl=0)
-  + ***Clase_02:*** Rstudio y GitHub. [[repositorio]](https://github.com/taller-R/clase_2)
+  + ***Clase_02:*** Rstudio y GitHub. [[repositorio]](https://github.com/taller-R/clase_2) - [[video aquí]](https://www.dropbox.com/sh/0e35acbnypadjpr/AAA6P1oKRrSVkL8N5sFgx9l0a?dl=0)
   
   + ***Clase_03:*** Estructuras de datos en R. [[repositorio]](https://github.com/taller-R/clase_3)
     

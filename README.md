@@ -26,26 +26,34 @@ Esta cuenta contiene los repositorios del curso Taller de R de nivel básico-int
 * ***Módulo 2:*** Data Tidying 
 
   + ***Clase_04:*** Limpieza de bases de datos parte 1 [[repositorio]](https://github.com/taller-R/clase_4)
+  
   + ***Clase_05:*** Limpieza de bases de datos parte 2 [[repositorio]](https://github.com/taller-R/clase_5)
+  
   + ***Clase_06:*** Gráficos en R [[repositorio]](https://github.com/taller-R/Clase_6)
    
 * ***Módulo 3:*** Iterar procesos
 
   + ***Clase_07:*** Loops y familia apply [[repositorio]](https://github.com/taller-R/clase_7)
+  
   + ***Clase_08:*** Funciones en R [[repositorio]](https://github.com/taller-R/clase_8)
      
 * ***Módulo 4:*** Procesamiento de información espacial
     
   + ***Clase_09:*** [Introducción a la información espacial en R [[repositorio]](https://github.com/taller-R/clase_9)
+  
   + ***Clase_10:*** [Visualización de la información espacial [[repositorio]](https://github.com/taller-R/clase_10)
+  
   + ***Clase_11:*** [Operaciones geométricas [[repositorio]](https://github.com/taller-R/clase_11)
+  
   + ***Clase_12:*** Introducción al procesamiento de imágenes satelitales [[repositorio]](https://github.com/taller-R/clase_12)
    
 * ***Módulo 5:***  Otras aplicaciones
      
   + ***Clase_13:*** Regresiones [[repositorio]](https://github.com/taller-R/clase_13)
   + ***Clase_14:*** Introducción a web scraping [[repositorio]](https://github.com/taller-R/clase_14)
+  
   + ***Clase_15:*** Rmarkdonw y Shiny [[repositorio]](https://github.com/taller-R/clase_15)
+  
   + ***Clase_16:*** Introducción a minería de texto [[repositorio]](https://github.com/taller-R/clase_16)
 
 ## Acerca de los repositorios con las clases

@@ -29,11 +29,11 @@ Esta cuenta contiene los repositorios del curso Taller de R de nivel básico-int
   
   + ***Clase_05:*** Limpieza de bases de datos parte 2 [[repositorio]](https://github.com/taller-R/clase_5)
   
-  + ***Clase_06:*** Gráficos en R [[repositorio]](https://github.com/taller-R/Clase_6)
+  + ***Clase_06:*** Visualización de información [[repositorio]](https://github.com/taller-R/Clase_6)
    
 * ***Módulo 3:*** Iterar procesos
 
-  + ***Clase_07:*** Loops y familia apply [[repositorio]](https://github.com/taller-R/clase_7)
+  + ***Clase_07:*** Bucles [[repositorio]](https://github.com/taller-R/clase_7)
   
   + ***Clase_08:*** Funciones en R [[repositorio]](https://github.com/taller-R/clase_8)
      

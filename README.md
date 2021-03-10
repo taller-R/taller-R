@@ -25,9 +25,9 @@ Esta cuenta contiene los repositorios del curso Taller de R de nivel básico-int
     
 * ***Módulo 2:*** Data Tidying 
 
-  + ***Clase_04:*** Limpieza de bases de datos parte 1 [[repositorio]](https://github.com/taller-R/clase_4)
+  + ***Clase_04:*** Tidy data parte 1 [[repositorio]](https://github.com/taller-R/clase_4)
   
-  + ***Clase_05:*** Limpieza de bases de datos parte 2 [[repositorio]](https://github.com/taller-R/clase_5)
+  + ***Clase_05:*** Tidy data parte 2 [[repositorio]](https://github.com/taller-R/clase_5)
   
   + ***Clase_06:*** Visualización de información [[repositorio]](https://github.com/taller-R/Clase_6)
    

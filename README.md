@@ -18,11 +18,12 @@ Esta cuenta contiene los repositorios de un curso intermedio de R. Este curso bu
 
 Esta cuenta contiene 3 repositorios con el material de la clase:
 
-- **lectures_r**: Contiene las presentaciones con la introducción teoríca de cada clase. [[repositorio]](https://github.com/taller-R/lectures_r)
+- **lectures_r**: Contiene las presentaciones con la introducción teórica de cada clase. [[repositorio]](https://github.com/taller-R/lectures_r)
 
-- **data_r**: Contiene los scripts y los datos con la aplicación practica de cada clase. [[repositorio]](https://github.com/taller-R/data_r)
+- **data_r**: Contiene los scripts y los datos con la aplicación práctica de cada clase. [[repositorio]](https://github.com/taller-R/data_r)
 
 - **task_r**: Contiene los 3 task que se realizaran para evaluar el aprendizaje del curso. [[repositorio]](https://github.com/taller-R/task_r)
+
 
 
 

@@ -4,7 +4,7 @@
 
 # Hola! :wave:
 
-Esta cuenta contiene los repositorios del curso Taller de R de nivel básico-intermedio. Este curso busca promover el uso de lenguajes de programación de código abierto (Open Source), familiarizando al estudiante con el entorno de trabajo de R e introduciendo a los estudiantes en algunos métodos computacionales aplicados en la investigación económica. 
+Esta cuenta contiene los repositorios de un curso intermedio de R. Este curso busca promover el uso de lenguajes de programación de código abierto (Open Source), familiarizando al estudiante con el entorno de trabajo de R e introduciendo a los estudiantes en algunos métodos computacionales aplicados en la investigación económica. 
 
 ## Autor
 
@@ -14,63 +14,16 @@ Esta cuenta contiene los repositorios del curso Taller de R de nivel básico-int
 
 <br> </br> 
 
-## Programa del curso
+## Contenido 
 
-* ***Módulo 1:*** Introducción al entorno de trabajo de R
+Esta cuenta contiene 3 repositorios con el material de la clase:
 
-  + ***clase-01:*** Introducción a R. [[repositorio]](https://github.com/taller-R/clase-1) 
-  
-  + ***clase-02:*** Rstudio y GitHub. [[repositorio]](https://github.com/taller-R/clase-2)
-  
-  + ***clase-03:*** Estructuras de datos en R. [[repositorio]](https://github.com/taller-R/clase-3)
-  
-* ***Módulo 2:*** Data Tidying 
+- **lectures_r**: Contiene las presentaciones con la introducción teoríca de cada clase. [[repositorio]](https://github.com/taller-R/lectures_r)
 
-  + ***clase-04:*** Variables [[repositorio]](https://github.com/taller-R/clase-4)
-  
-  + ***clase-05:*** Tidy data parte 1 [[repositorio]](https://github.com/taller-R/clase-5)
-  
-  + ***clase-06:*** Tidy data parte 2 [[repositorio]](https://github.com/taller-R/clase-6)
-  
-  + ***clase-07:*** Visualización de información [[repositorio]](https://github.com/taller-R/clase-7)
-   
-* ***Módulo 3:*** Loops y funciones
+- **data_r**: Contiene los scripts y los datos con la aplicación practica de cada clase. [[repositorio]](https://github.com/taller-R/data_r)
 
-  + ***clase-08:*** Bucles [[repositorio]](https://github.com/taller-R/clase-8)
-  
-  + ***clase-09:*** Funciones en R [[repositorio]](https://github.com/taller-R/clase-9)
-  
-* ***Módulo 4:***  Regresiones
-     
-  + ***clase-10:*** Regresiones [[repositorio]](https://github.com/taller-R/clase-10)
-  
-* ***Módulo 5:*** GIS en R
-    
-  + ***clase-11:*** Introducción a GIS en R [[repositorio]](https://github.com/taller-R/clase-11)
-  
-  + ***clase-12:*** Operaciones geométricas [[repositorio]](https://github.com/taller-R/clase-12)
-  
-  + ***clase-13:*** Introducción a imágenes satelitales [[repositorio]](https://github.com/taller-R/clase-13)
-   
-* ***Módulo 6:*** Otras aplicaciones
-   
-  + ***clase-14:*** Introducción a web scraping [[repositorio]](https://github.com/taller-R/clase-14)
-  
-  + ***clase-15:*** Rmarkdonw y Shiny [[repositorio]](https://github.com/taller-R/clase-15)
-   
-## Acerca de los repositorios con las clases
+- **task_r**: Contiene los 3 task que se realizaran para evaluar el aprendizaje del curso. [[repositorio]](https://github.com/taller-R/task_r)
 
-Cada repositorio contiene almenos cuatro carpetas (scr, data, help, task), un archivo README.md y un archivo intro-to-class.html con las instrucciones iniciales de cada clase.
-
-* **scr:** contiene el script (editor de sintaxis) que vamos a usar en la clase.
-
-* **data:** contiene dos carpetas (input y output) con las bases de datos que vamos a usar en la clase. La carpeta **input** contiene la *raw data* (datos originales), es decir la información tal cual como se obtiene de la fuente original. La carpeta **output** contiene la *tidy data* (datos procesados), es decir, las bases de datos que se obtiene al correr el script de la clase.
-
-* **help:** contiene los gráficos y otros materiales de apoyo para la clase.
-
-* **Views:** contiene generalmente algunos de los gráficos que se producen con el script de la clase.
-
-* **Task:**  contiene un archivo task.html con algunas instrucciones para realizar ejercicios de los temas vistos en clase. La intención es que los estudiantes puedan afianzar los conocimientos de la clase empleando bases de datos de instituciones como [DANE](https://www.dane.gov.co). 
 
 
 

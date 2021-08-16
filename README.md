@@ -4,7 +4,7 @@
 
 # Hola! :wave:
 
-Esta cuenta contiene los repositorios de un curso intermedio de R. Este curso busca promover el uso de lenguajes de programación de código abierto (Open Source), familiarizando al estudiante con el entorno de trabajo de R e introduciendo a los estudiantes en algunos métodos computacionales aplicados en la investigación económica. 
+Esta cuenta contiene los repositorios de un curso intermedio de R. Este curso busca promover el uso de lenguajes de programación de código abierto (Open Source), familiarizando al estudiante con el entorno de trabajo de R e introduciendo a los estudiantes en algunos métodos computacionales aplicados en la investigación económica.  
 
 ## Autor
 

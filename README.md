@@ -22,7 +22,7 @@ Esta cuenta contiene el material de la clase en e repositorios:
 
 - **task_r**: Contiene los 3 task que se realizaran para evaluar el aprendizaje del curso. [[repositorio]](https://github.com/taller-R/task_r)
 
-
+Nota:
 
 
 
